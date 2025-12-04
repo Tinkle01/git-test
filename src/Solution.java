@@ -15,6 +15,7 @@ class Solution {
 
     }
 
+
     public int[] merge(int[] num_A, int[] num_B){
         int n1 = num_A.length, n2 = num_B.length;
         int[] num_M = new int[n1+n2];
